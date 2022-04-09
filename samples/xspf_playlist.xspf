@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///D:/VIDEO/SONGS/Led%20Zeppelin%20-%20Dazed%20And%20Confused%20Live%20(HD).mp4</location>
+			<duration>618045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/VIDEO/SONGS/Linkin%20Park%20-%20One%20More%20Light%20(Acoustic)%20%5BREMASTERED%5D.mp4</location>
+			<duration>249685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/VIDEO/SONGS/Hoobastank%20-%20The%20Reason.mp4</location>
+			<duration>250149</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/VIDEO/SONGS/Foreigner-Long,%20Long%20Way%20From%20Home.mp4</location>
+			<duration>172432</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/VIDEO/SONGS/George%20Michael%20-%20Careless%20Whisper%20Fingerstyle.mp4</location>
+			<duration>111455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Amos%20Lee/Amos%20Lee%20-%20Boots%20of%20Spanish%20Leather%20(From%20Sons%20of%20Anarchy).mp3</location>
+			<title>Boots of Spanish Leather (From Sons of Anarchy)</title>
+			<creator>Amos Lee, The Forest Rangers, Amos Lee &amp; The Forest Rangers</creator>
+			<album>Songs of Anarchy, Vol. 4 (Music from Sons of Anarchy)</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Amos%20Lee%2C%20The%20Forest%20Rangers%2C%20Amos%20Lee%20%26%20The%20Forest%20Rangers/Songs%20of%20Anarchy%2C%20Vol.%204%20%28Music%20from%20Sons%20of%20Anarchy%29/art.jpg</image>
+			<duration>311745</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Big%20Brother%20&amp;%20The%20Holding%20Company/Big%20Brother%20&amp;%20The%20Holding%20Company%20-%20Piece%20of%20My%20Heart.mp3</location>
+			<title>Piece of My Heart</title>
+			<creator>Big Brother &amp; The Holding Company</creator>
+			<album>Cheap Thrills</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Big%20Brother%20%26%20The%20Holding%20Company/Cheap%20Thrills/art</image>
+			<duration>252843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Billy%20Valentine/Billy%20Valentine%20-%20All%20Along%20the%20Watchtower%20(From%20_Sons%20of%20Anarchy_).mp3</location>
+			<title>All Along the Watchtower (From &quot;Sons of Anarchy&quot;)</title>
+			<creator>Billy Valentine, The Forest Rangers, Billy Valentine &amp; The Forest Rangers</creator>
+			<album>Songs of Anarchy, Vol. 4 (Music from Sons of Anarchy)</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Billy%20Valentine%2C%20The%20Forest%20Rangers%2C%20Billy%20Valentine%20%26%20The%20Forest%20Rangers/Songs%20of%20Anarchy%2C%20Vol.%204%20%28Music%20from%20Sons%20of%20Anarchy%29/art.jpg</image>
+			<duration>238053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Billy%20Valentine/Billy%20Valentine%20-%20Blue%20Angel%20(From%20Sons%20of%20Anarchy).mp3</location>
+			<title>Blue Angel (From Sons of Anarchy)</title>
+			<creator>Billy Valentine, The Forest Rangers, Billy Valentine &amp; The Forest Rangers</creator>
+			<album>Songs of Anarchy, Vol. 4 (Music from Sons of Anarchy)</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Billy%20Valentine%2C%20The%20Forest%20Rangers%2C%20Billy%20Valentine%20%26%20The%20Forest%20Rangers/Songs%20of%20Anarchy%2C%20Vol.%204%20%28Music%20from%20Sons%20of%20Anarchy%29/art.jpg</image>
+			<duration>301531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Bob%20Dylan/Bob%20Dylan%20-%20Knocking%20on%20heaven&#39;s%20door.mp3</location>
+			<title>Knocking on heaven&#39;s door</title>
+			<creator>Bob Dylan</creator>
+			<album>Pat Garrett &amp; Billy the Kid</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Bob%20Dylan/Pat%20Garrett%20%26%20Billy%20the%20Kid/art</image>
+			<duration>189075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Bon%20Jovi/Bon%20Jovi%20-%20It&#39;s%20My%20Life.mp3</location>
+			<title>It&#39;s My Life</title>
+			<creator>Bon Jovi</creator>
+			<album>Bon Jovi Greatest Hits - The Ultimate Collection (Int&#39;l Deluxe Package)</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Bon%20Jovi/Bon%20Jovi%20Greatest%20Hits%20-%20The%20Ultimate%20Collection%20%28Int%27l%20Deluxe%20Package%29/art.jpg</image>
+			<duration>224626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Canned%20Heat/Canned%20Heat%20-%20On%20The%20Road%20Again%20(Single%20Version).mp3</location>
+			<title>On The Road Again (Single Version)</title>
+			<creator>Canned Heat</creator>
+			<album>On The Road Again</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Canned%20Heat/On%20The%20Road%20Again/art.jpg</image>
+			<duration>296333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Chromatics/Chromatics%20-%20Into%20The%20Black.mp3</location>
+			<title>Into The Black</title>
+			<creator>Chromatics</creator>
+			<album>Kill For Love (Deluxe)</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Chromatics/Kill%20For%20Love%20%28Deluxe%29/art.jpg</image>
+			<duration>323030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Clarence%20Carter/Clarence%20Carter%20-%20Slip%20Away.mp3</location>
+			<title>Slip Away</title>
+			<creator>Clarence Carter</creator>
+			<album>Almost Famous</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Clarence%20Carter/Almost%20Famous/art</image>
+			<duration>155211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Crazy%20Town/Crazy%20Town%20-%20Butterfly.mp3</location>
+			<title>Butterfly</title>
+			<creator>Crazy Town</creator>
+			<album>The Gift Of Game</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Crazy%20Town/The%20Gift%20Of%20Game/art.jpg</image>
+			<duration>216764</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Cream/Cream%20-%20White%20Room.mp3</location>
+			<title>White Room</title>
+			<creator>Cream</creator>
+			<album>Wheels of Fire</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Cream/Wheels%20of%20Fire/art</image>
+			<duration>297507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Bodies.mp3</location>
+			<title>Bodies</title>
+			<creator>Drowning Pool</creator>
+			<album>Sinner (Unlucky 13th Anniversary Deluxe Edition)</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Sinner%20%28Unlucky%2013th%20Anniversary%20Deluxe%20Edition%29/art.jpg</image>
+			<duration>202501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Feel%20Like%20I%20Do.mp3</location>
+			<title>Feel Like I Do</title>
+			<creator>Drowning Pool, Kato Khandwala</creator>
+			<album>Drowning Pool</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool%2C%20Kato%20Khandwala/Drowning%20Pool/art.jpg</image>
+			<duration>213185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Shame.mp3</location>
+			<title>Shame</title>
+			<creator>Drowning Pool</creator>
+			<album>Full Circle</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Full%20Circle/art.jpg</image>
+			<duration>190824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Tear%20Away.mp3</location>
+			<title>Tear Away</title>
+			<creator>Drowning Pool</creator>
+			<album>Sinner</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Sinner/art.jpg</image>
+			<duration>254067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Turn%20So%20Cold.mp3</location>
+			<title>Turn So Cold</title>
+			<creator>Drowning Pool, Bobby Huff, Kato Khandwala</creator>
+			<album>Drowning Pool</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool%2C%20Bobby%20Huff%2C%20Kato%20Khandwala/Drowning%20Pool/art.jpg</image>
+			<duration>218488</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20All%20Over%20Me.mp3</location>
+			<title>All Over Me</title>
+			<creator>Drowning Pool</creator>
+			<album>Sinner (Unlucky 13th Anniversary Deluxe Edition)</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Sinner%20%28Unlucky%2013th%20Anniversary%20Deluxe%20Edition%29/art.jpg</image>
+			<duration>192626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%2037%20Stitches.mp3</location>
+			<title>37 Stitches</title>
+			<creator>Drowning Pool</creator>
+			<album>Full Circle</album>
+			<trackNum>9</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Full%20Circle/art.jpg</image>
+			<duration>230008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/folder.jpg</location>
+			<image>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Folder.jpg</image>
+			<duration>10000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Full%20Circle.mp3</location>
+			<title>Full Circle</title>
+			<creator>Drowning Pool</creator>
+			<album>Full Circle</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Full%20Circle/art.jpg</image>
+			<duration>198608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Let%20The%20Sin%20Begin.mp3</location>
+			<title>Let The Sin Begin</title>
+			<creator>Drowning Pool, Kato Khandwala, Ben Phillips</creator>
+			<album>Drowning Pool</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool%2C%20Kato%20Khandwala%2C%20Ben%20Phillips/Drowning%20Pool/art.jpg</image>
+			<duration>216790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Drowning%20Pool/Drowning%20Pool%20-%20Sinner.mp3</location>
+			<title>Sinner</title>
+			<creator>Drowning Pool</creator>
+			<album>Sinner (Unlucky 13th Anniversary Deluxe Edition)</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Sinner%20%28Unlucky%2013th%20Anniversary%20Deluxe%20Edition%29/art.jpg</image>
+			<duration>147565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Dusty%20Sprinngfield/Dusty%20Sprinngfield%20-%20Son%20of%20a%20Preacher%20Man.mp3</location>
+			<title>Son of a Preacher Man</title>
+			<creator>Dusty Sprinngfield</creator>
+			<album>Dusty in Memphis</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Dusty%20Sprinngfield/Dusty%20in%20Memphis/art</image>
+			<duration>146859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/American%20Idiot/Give%20Me%20Novacaine.mp3</location>
+			<title>Give Me Novacaine</title>
+			<creator>Green Day</creator>
+			<album>American Idiot</album>
+			<trackNum>7</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/American%20Idiot/art</image>
+			<duration>205824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/American%20Idiot/Holiday.mp3</location>
+			<title>Holiday</title>
+			<creator>Green Day</creator>
+			<album>American Idiot</album>
+			<trackNum>3</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/American%20Idiot/art</image>
+			<duration>232678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/American%20Idiot/Jesus%20Of%20Suburbia.mp3</location>
+			<title>Jesus Of Suburbia</title>
+			<creator>Green Day</creator>
+			<album>American Idiot</album>
+			<trackNum>2</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/American%20Idiot/art</image>
+			<duration>548289</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/American%20Idiot/St.%20Jimmy.mp3</location>
+			<title>St. Jimmy</title>
+			<creator>Green Day</creator>
+			<album>American Idiot</album>
+			<trackNum>6</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/American%20Idiot/art</image>
+			<duration>175260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/American%20Idiot/Boulevard%20Of%20Broken%20Dreams.mp3</location>
+			<title>Boulevard Of Broken Dreams</title>
+			<creator>Green Day</creator>
+			<album>American Idiot</album>
+			<trackNum>4</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/American%20Idiot/art</image>
+			<duration>260811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/Dookie/When%20I%20Come%20Around.mp3</location>
+			<title>When I Come Around</title>
+			<creator>Green Day</creator>
+			<album>Dookie</album>
+			<trackNum>10</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/Dookie/art.jpg</image>
+			<duration>178200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/Dookie/Basket%20Case.mp3</location>
+			<title>Basket Case</title>
+			<creator>Green Day</creator>
+			<album>Dookie</album>
+			<trackNum>7</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/Dookie/art.jpg</image>
+			<duration>183240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Greenday%20Discography/Nimrod/Time%20of%20Your%20life.mp3</location>
+			<title>Good Riddance (Time Of Your Life)</title>
+			<creator>Green Day</creator>
+			<album>Nimrod</album>
+			<trackNum>17</trackNum>
+			<annotation>[KopyKat]
+
+Share And Download Music</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Green%20Day/Nimrod/art</image>
+			<duration>154600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Jefferson%20Airplane/Jefferson%20Airplane%20-%20White%20Rabbit.mp3</location>
+			<title>White Rabbit</title>
+			<creator>Jefferson Airplane</creator>
+			<album>Surrealistic Pillow</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Jefferson%20Airplane/Surrealistic%20Pillow/art</image>
+			<duration>149091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Katie%20Melua/Katie%20Melua%20-%20On%20The%20Road%20Again.mp3</location>
+			<title>On The Road Again</title>
+			<creator>Katie Melua</creator>
+			<album>Piece By Piece</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Katie%20Melua/Piece%20By%20Piece/art.jpg</image>
+			<duration>278778</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Linkin%20Park%20-%20One%20More%20Light%20%5B2017%5D%20(320)/04.%20Battle%20Symphony.mp3</location>
+			<title>Battle Symphony</title>
+			<creator>Linkin Park</creator>
+			<album>One More Light</album>
+			<trackNum>4</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Linkin%20Park%20-%20One%20More%20Light%20%5B2017%5D%20%28320%29/cover.jpg</image>
+			<duration>216820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Linkin%20Park%20-%20One%20More%20Light%20%5B2017%5D%20(320)/09.%20One%20More%20Light.mp3</location>
+			<title>One More Light</title>
+			<creator>Linkin Park</creator>
+			<album>One More Light</album>
+			<trackNum>9</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Linkin%20Park%20-%20One%20More%20Light%20%5B2017%5D%20%28320%29/cover.jpg</image>
+			<duration>255715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/L&#39;orchestra%20Cinematique/L&#39;orchestra%20Cinematique%20-%20This%20Life%20(From%20_Sons%20of%20Anarchy_).mp3</location>
+			<title>This Life (From &quot;Sons of Anarchy&quot;)</title>
+			<creator>L&#39;orchestra Cinematique</creator>
+			<album>This Life (From &quot;Sons of Anarchy&quot;)</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/L%27orchestra%20Cinematique/This%20Life%20%28From%20_Sons%20of%20Anarchy_%29/art.jpg</image>
+			<duration>150909</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/05.Lithium.mp3</location>
+			<title>Lithium</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>5</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>257123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/06.Polly.mp3</location>
+			<title>Polly</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>6</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>177110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/12.Something%20In%20The%20Way.mp3</location>
+			<title>Something In The Way</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>12</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>634723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/01.Smells%20Like%20Teen%20Spirit.mp3</location>
+			<title>Smells Like Teen Spirit</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>1</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>301244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/02.In%20Bloom.mp3</location>
+			<title>In Bloom</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>2</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>255059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/03.Come%20As%20You%20Are.mp3</location>
+			<title>Come As You Are</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>3</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>219193</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/2%20-%20Nevermind%20(1991)/04.Breed.mp3</location>
+			<title>Breed</title>
+			<creator>Nirvana</creator>
+			<album>Nevermind</album>
+			<trackNum>4</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Nevermind/art.jpg</image>
+			<duration>183902</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/4%20-%20In%20Utero%20(1993)/12%20-%20Nirvana%20-%20All%20Apologies.mp3</location>
+			<title>All Apologies</title>
+			<creator>Nirvana</creator>
+			<album>In Utero</album>
+			<trackNum>12</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/In%20Utero/art.jpg</image>
+			<duration>231418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/NIRVANA%20DISCOGRAPHY%20@320Kbps%20CbR%20Mp3%20%5BTuGAZx%5D/4%20-%20In%20Utero%20(1993)/09%20-%20Nirvana%20-%20Pennyroyal%20Tea.mp3</location>
+			<title>Pennyroyal Tea</title>
+			<creator>Nirvana</creator>
+			<album>In Utero</album>
+			<trackNum>9</trackNum>
+			<annotation>Pirata-Tuga</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/In%20Utero/art.jpg</image>
+			<duration>217208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Pop%20Evil/Pop%20Evil%20-%20Trenches.mp3</location>
+			<title>Trenches</title>
+			<creator>Pop Evil</creator>
+			<album>Onyx</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Pop%20Evil/Onyx/art.jpg</image>
+			<duration>217913</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Pop%20Evil/Pop%20Evil%20-%20Torn%20to%20Pieces.mp3</location>
+			<title>Torn to Pieces</title>
+			<creator>Pop Evil</creator>
+			<album>Onyx</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Pop%20Evil/Onyx/art.jpg</image>
+			<duration>196284</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Puddle%20of%20Mudd/Puddle%20of%20Mudd%20-%20Old%20Man.mp3</location>
+			<title>Old Man</title>
+			<creator>Puddle of Mudd</creator>
+			<album>Re (Disc) Overed</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Puddle%20of%20Mudd/Re%20%28Disc%29%20Overed/art.jpg</image>
+			<duration>306233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Redlight%20King/Redlight%20King%20-%20Old%20Man%20(MD&#39;s%20Radio%20Intro%20Remix).mp3</location>
+			<title>Old Man (MD&#39;s Radio Intro Remix)</title>
+			<creator>Redlight King</creator>
+			<album>Old Man</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Redlight%20King/Old%20Man/art.jpg</image>
+			<duration>178546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Sam%20&amp;%20Dave/Sam%20&amp;%20Dave%20-%20Hold%20On,%20I&#39;m%20Comin&#39;.mp3</location>
+			<title>Hold On, I&#39;m Comin&#39;</title>
+			<creator>Sam &amp; Dave</creator>
+			<album>Hold On, I&#39;m Comin&#39;</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Sam%20%26%20Dave/Hold%20On%2C%20I%27m%20Comin%27/art.jpg</image>
+			<duration>153808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Simple%20Man/Simple%20Man%20-%20Lynyrd%20Skynyrd%20-%20Lyrics%20HD.mp3</location>
+			<title>Simple Man</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<album>Almost Famous</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Lynyrd%20Skynyrd/Almost%20Famous/art.jpg</image>
+			<duration>349995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Status%20Quo/Status%20Quo%20-%20Pictures%20of%20Matchstick%20Men%20(Stereo%20Version).mp3</location>
+			<title>Pictures of Matchstick Men (Stereo Version)</title>
+			<creator>Status Quo</creator>
+			<album>Picturesque Matchstickable Messages from the Status Quo</album>
+			<trackNum>12</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Status%20Quo/Picturesque%20Matchstickable%20Messages%20from%20the%20Status%20Quo/art.jpg</image>
+			<duration>195813</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Steppenwolf/Steppenwolf%20-%20Desperation.mp3</location>
+			<title>Desperation</title>
+			<creator>Steppenwolf</creator>
+			<album>Steppenwolf</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Steppenwolf/Steppenwolf/art.jpg</image>
+			<duration>345678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Steppenwolf/Steppenwolf%20-%20Born%20To%20Be%20Wild.mp3</location>
+			<title>Born To Be Wild</title>
+			<creator>Steppenwolf</creator>
+			<album>Steppenwolf</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Steppenwolf/Steppenwolf/art.jpg</image>
+			<duration>210416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/The%20Forest%20Rangers/The%20Forest%20Rangers%20-%20Bohemian%20Rhapsody%20(From%20Sons%20of%20Anarchy).mp3</location>
+			<title>Bohemian Rhapsody (From Sons of Anarchy)</title>
+			<creator>The Forest Rangers, The Forest Rangers feat. The White Buffalo, Billy Valentine &amp; Franky Perez</creator>
+			<album>Songs of Anarchy, Vol. 4 (Music from Sons of Anarchy)</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/The%20Forest%20Rangers%2C%20The%20Forest%20Rangers%20feat.%20The%20White%20Buffalo%2C%20Billy%20Valentine%20%26%20Franky%20Perez/Songs%20of%20Anarchy%2C%20Vol.%204%20%28Music%20from%20Sons%20of%20Anarchy%29/art.jpg</image>
+			<duration>404924</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Tony%20Skeggs/Tony%20Skeggs%20-%20Candle%20In%20The%20Wind.mp3</location>
+			<title>Candle In The Wind</title>
+			<creator>Tony Skeggs</creator>
+			<album>Acoustic Classics</album>
+			<trackNum>11</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Tony%20Skeggs/Acoustic%20Classics/art.jpg</image>
+			<duration>232646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Tony%20Skeggs/Skeggs%20-%20Hotel%20California.mp3</location>
+			<title>Hotel California</title>
+			<creator>Skeggs</creator>
+			<album>Acoustic Classics</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Skeggs/Acoustic%20Classics/art.jpg</image>
+			<duration>404636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Tony%20Skeggs/Tony%20Skeggs%20-%20Bridge%20Over%20Troubled%20Water.mp3</location>
+			<title>Bridge Over Troubled Water</title>
+			<creator>Tony Skeggs</creator>
+			<album>Shades of Folk</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Tony%20Skeggs/Shades%20of%20Folk/art.jpg</image>
+			<duration>273031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Tony%20Skeggs/Tony%20Skeggs%20-%20Shades%20Of%20Dylan/1%20-%20Tony%20Skeggs%20-%20All%20Along%20The%20Watchtower.mp3</location>
+			<title>All Along The Watchtower</title>
+			<creator>Tony Skeggs</creator>
+			<album>Shades Of Dylan</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Tony%20Skeggs/Shades%20Of%20Dylan/art.jpg</image>
+			<duration>231549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Tony%20Skeggs/Tony%20Skeggs%20-%20Shades%20Of%20Dylan/4%20-%20Tony%20Skeggs%20-%20Blowing%20In%20The%20Wind.mp3</location>
+			<title>Blowing In The Wind</title>
+			<creator>Tony Skeggs</creator>
+			<album>Shades Of Dylan</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Tony%20Skeggs/Shades%20Of%20Dylan/art.jpg</image>
+			<duration>191346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/01.%20Beer.mp3</location>
+			<title>Beer</title>
+			<creator>Seether</creator>
+			<album>Fragile</album>
+			<trackNum>1</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>167737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/02%20-%20B.Y.O.B..mp3</location>
+			<title>B.Y.O.B.</title>
+			<creator>System Of A Down</creator>
+			<album>Mezmerize</album>
+			<trackNum>2</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>255532</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/02%20(Sic).mp3</location>
+			<title>(Sic)</title>
+			<creator>Slipknot</creator>
+			<album>Slipknot</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Slipknot/Slipknot/art.png</image>
+			<duration>199991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/03%20%20Linkin%20Park%20-%20Leave%20Out%20All%20The%20Rest.mp3</location>
+			<title>Leave Out All The Rest</title>
+			<creator>Linkin Park</creator>
+			<album>Minutes To Midnight</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Linkin%20Park/Minutes%20To%20Midnight/art.jpg</image>
+			<duration>198927</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/06%20-%20Chop%20Suey_.mp3</location>
+			<title>Chop Suey!</title>
+			<creator>System Of A Down</creator>
+			<album>Toxicity</album>
+			<trackNum>6</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>210288</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/06%20-%20Kashmir.mp3</location>
+			<title>Kashmir</title>
+			<creator>Led Zeppelin</creator>
+			<album>Physical Graffiti - CD 1</album>
+			<trackNum>6</trackNum>
+			<annotation>KSLCD-012-LZ06</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Led%20Zeppelin/Physical%20Graffiti%20-%20CD%201/art.jpg</image>
+			<duration>508217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Three_Days_Grace_-_06._Misery_Loves_My_Company_Transit_Of_Venus_2012_(mp3.pm).mp3</location>
+			<title>Misery Loves My Company</title>
+			<creator>Three Days Grace</creator>
+			<album>Transit Of Venus</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Three%20Days%20Grace/Transit%20Of%20Venus/art.png</image>
+			<duration>162915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/06.%20Tied%20My%20Hands%20(Acoustic).mp3</location>
+			<title>Tied My Hands</title>
+			<creator>Seether</creator>
+			<album>One Cold Night</album>
+			<trackNum>6</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>316061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/06.%20Tied%20My%20Hands.mp3</location>
+			<title>Tied My Hands</title>
+			<creator>Seether</creator>
+			<album>Fragile</album>
+			<trackNum>6</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>313526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/06.Come%20As%20You%20Are.mp3</location>
+			<title>Come As You Are</title>
+			<creator>Nirvana</creator>
+			<album>Greatest Hits</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Nirvana/Greatest%20Hits/art</image>
+			<duration>219170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/06.N%202%20Gether%20Now.mp3</location>
+			<title>N 2 Gether Now</title>
+			<creator>Limp Bizkit</creator>
+			<album>Greatest Hitz</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Limp%20Bizkit/Greatest%20Hitz/art</image>
+			<duration>235995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/07%20Sons%20of%20Plunder.mp3</location>
+			<title>Sons of Plunder</title>
+			<creator>Disturbed</creator>
+			<album>Ten Thousand Fists</album>
+			<trackNum>7</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>230361</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/07.%20Sympathetic.mp3</location>
+			<title>Sympathetic</title>
+			<creator>Seether</creator>
+			<album>Disclaimer</album>
+			<trackNum>7</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>248450</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/07.Take%20A%20Look%20Around.mp3</location>
+			<title>Take A Look Around</title>
+			<creator>Limp Bizkit</creator>
+			<album>Greatest Hitz</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Limp%20Bizkit/Greatest%20Hitz/art</image>
+			<duration>320115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/08%20-%20Holy%20Mountains.mp3</location>
+			<title>Holy Mountains</title>
+			<creator>System Of A Down</creator>
+			<album>Hypnotize</album>
+			<trackNum>8</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>328910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/08%20-%20When%20The%20Levee%20Breaks.mp3</location>
+			<title>When The Levee Breaks</title>
+			<creator>Led Zeppelin</creator>
+			<album>Led Zeppelin IV</album>
+			<trackNum>8</trackNum>
+			<annotation>KSLCD-012-LZ04</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Led%20Zeppelin/Led%20Zeppelin%20IV/art.jpg</image>
+			<duration>430031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/08%20I%20Am%20the%20Highway.wma</location>
+			<title>I Am the Highway</title>
+			<creator>Audioslave</creator>
+			<album>Audioslave</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Audioslave/Audioslave/art.jpg</image>
+			<duration>334970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/08%20Left%20Behind.mp3</location>
+			<title>Left Behind</title>
+			<creator>Slipknot</creator>
+			<album>Iowa</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Slipknot/Iowa/art.png</image>
+			<duration>241067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/09.%20Broken.mp3</location>
+			<title>Broken</title>
+			<creator>Seether</creator>
+			<album>One Cold Night</album>
+			<trackNum>9</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>257050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/10%20-%20My%20Last%20Breath.mp3</location>
+			<title>My Last Breath</title>
+			<creator>Evanescence</creator>
+			<album>Fallen</album>
+			<trackNum>10</trackNum>
+			<annotation>International version of the Grammy winning goth metal act&#39;s multi-platinum 2003 album features 12 tracks including the hits &#39;Bring Me To Life&#39;, &#39;My Immortal&#39;, &amp; &#39;Going Under&#39;, as well as 1 bonus track, &#39;My Immortal&#39; (Band Version). Sony. 2004.</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Evanescence/Fallen/art</image>
+			<duration>247383</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/10.%20Space%20Bound.mp3</location>
+			<title>Space Bound</title>
+			<creator>Eminem</creator>
+			<album>Recovery</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Eminem/Recovery/art.jpg</image>
+			<duration>278760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/11-slipknot-vermilion_pt_2-popdrop.ru.mp3</location>
+			<title>Vermilion, Pt. 2</title>
+			<creator>Slipknot</creator>
+			<album>Vol. 3: The Subliminal Verses</album>
+			<trackNum>11</trackNum>
+			<annotation>http://popdrop.ru</annotation>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>224370</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/12%20-%20Toxicity.mp3</location>
+			<title>Toxicity</title>
+			<creator>System Of A Down</creator>
+			<album>Toxicity</album>
+			<trackNum>12</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>218987</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/12-Linkin%20Park_Iridescent.mp3</location>
+			<title>Iridescent</title>
+			<creator>Linkin Park</creator>
+			<album>Linkin Park - A Thousand Suns</album>
+			<trackNum>12</trackNum>
+			<annotation>tH3 sc3n3 of Mp3 SuCks</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Linkin%20Park/Linkin%20Park%20-%20A%20Thousand%20Suns/art.jpg</image>
+			<duration>296568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/13.Behind%20Blue%20Eyes.mp3</location>
+			<title>Behind Blue Eyes</title>
+			<creator>Limp Bizkit</creator>
+			<album>Greatest Hitz</album>
+			<trackNum>13</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Limp%20Bizkit/Greatest%20Hitz/art</image>
+			<duration>269595</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/14%20-%20Highway%20To%20Hell.mp3</location>
+			<title>Highway To Hell</title>
+			<creator>AC/DC</creator>
+			<album>The Very Best</album>
+			<trackNum>14</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>209355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/14-vermillion_pt.2_(bloodstone_mix)-qtxmp3.mp3</location>
+			<title>Vermillion Pt.2 (Bloodstone Mi</title>
+			<creator>Slipknot</creator>
+			<album>All Hope Is Gone</album>
+			<trackNum>14</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Slipknot/All%20Hope%20Is%20Gone/art.png</image>
+			<duration>219664</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/15.%20Thoughtless.mp3</location>
+			<title>Thoughtless</title>
+			<creator>Korn</creator>
+			<album>Greatest Hits Disc 2</album>
+			<trackNum>15</trackNum>
+			<annotation>vtwin88cube</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Korn/Greatest%20Hits%20Disc%202/art</image>
+			<duration>275986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/17.Home%20Sweet%20Homebittersweet%20Symphony.mp3</location>
+			<title>Home Sweet Home/Bittersweet Symphony</title>
+			<creator>Limp Bizkit</creator>
+			<album>Greatest Hitz</album>
+			<trackNum>17</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Limp%20Bizkit/Greatest%20Hitz/art</image>
+			<duration>232011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Aaron%20Lewis%20-%20Epiphany%20(Stripped%20-%20Raw%20and%20Real).mp3</location>
+			<title>Epiphany (Stripped)</title>
+			<creator>Staind</creator>
+			<album>Aaron Lewis, Live and Acoustic</album>
+			<trackNum>17</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Staind/Aaron%20Lewis%2C%20Live%20and%20Acoustic/art.jpg</image>
+			<duration>283172</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Aaron%20Lewis%20-%20Vicious%20Circles.mp3</location>
+			<title>Vicious Circles</title>
+			<creator>Aaron Lewis</creator>
+			<album>Town Line [EP]</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Aaron%20Lewis/Town%20Line%20%5BEP%5D/art.jpg</image>
+			<duration>308300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/City%20and%20Colour%20-%20The%20Lonely%20Life%20%5BOfficial%20Video%5D.mp3</location>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>272235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Creed%20-%20Greatest%20Hits%20%5B06%5D%20Higher.mp3</location>
+			<title>Higher</title>
+			<creator>Creed</creator>
+			<album>Greatest Hits</album>
+			<trackNum>6</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>326377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Creed%20-%20Greatest%20Hits%20%5B08%5D%20What%20If.mp3</location>
+			<title>What If</title>
+			<creator>Creed</creator>
+			<album>Greatest Hits</album>
+			<trackNum>8</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>318644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Creed%20-%20Greatest%20Hits%20%5B09%5D%20One%20Last%20Breath.mp3</location>
+			<title>One Last Breath</title>
+			<creator>Creed</creator>
+			<album>Greatest Hits</album>
+			<trackNum>9</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>239467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Creed%20-%20Greatest%20Hits%20%5B12%5D%20My%20Sacrifice.mp3</location>
+			<title>My Sacrifice</title>
+			<creator>Creed</creator>
+			<album>Greatest Hits</album>
+			<trackNum>12</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>295892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Deep%20Purple%20-%20Smoke%20on%20the%20Water.mp3</location>
+			<annotation>www.freemake.com</annotation>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>339941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/SpiderBait%20-%20Black%20Betty.mp3</location>
+			<title>Black Betty</title>
+			<creator>SpiderBait</creator>
+			<album>Tonight Alright</album>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>207531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Staind%20-%20Epiphany.mp3</location>
+			<title>Epiphany</title>
+			<creator>Staind</creator>
+			<album>Break The Cycle</album>
+			<trackNum>7</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Staind/Break%20The%20Cycle/art.jpg</image>
+			<duration>258093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Staind%20-%20Zoe%20Jane%20(Radio%20Edit).mp3</location>
+			<title>Zoe Jane [Radio Edit]</title>
+			<creator>Staind</creator>
+			<album>Zoe Jane (Promo Single)</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/Staind/Zoe%20Jane%20%28Promo%20Single%29/art.jpg</image>
+			<duration>260809</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/%5BMP4%20360p%5D%20Richie%20Sambora%20When%20a%20blind%20man%20cries.mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>333459</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Stressed%20Out%20-%20Twenty%20One%20Pilots%20Lyrics.mp3</location>
+			<title>Stressed Out</title>
+			<creator>twenty one pilots</creator>
+			<album>Blurryface</album>
+			<image>file:///C:/Users/Demo/AppData/Roaming/vlc/art/artistalbum/twenty%20one%20pilots/Blurryface/art.jpg</image>
+			<duration>202392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/The%20White%20Buffalo%20-%20The%20House%20of%20The%20Rising%20Sun%20(Sons%20of%20Anarchy%20Season%204%20Finale%20Song).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>321723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Twenty%20One%20Pilots%20-%20Stressed%20Out%20(1Live%20Session)%20(Acoustic).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>226429</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/%5BMP4%20480p%5D%20Edward%20Maya%20feat.%20Vika%20Jigulina%20-%20Desert%20Rain.mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>250323</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/%5BMP4%20720p%5D%20Edward%20Maya%20&amp;%20Mia%20Martina%20-%20Stereo%20Love%20(Ultra%20Music).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>249507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/%5BMP4%201080p%5D%20City%20and%20Colour%20-%20Nutshell%20(Cover)%20by%20Alice%20in%20Chains.mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>181155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/City%20and%20Colour%20-%20Lover%20Come%20Back%20(Lyric%20Video).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>235227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Eminem%20-%20Beautiful%20Pain%20ft.%20Sia%20(Audio).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>265227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Incubus%20-%20Love%20Hurts%20(Acoustic).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>239043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Jim%20Wolfe%20and%20Charles%20Brotman%20-%20Ukulele%20Girl.mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>209979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Marilyn%20Manson%20-%20Nobodies%20(Acoustic).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>215571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Metallica%20-%20Turn%20the%20page%20(%20Sons%20of%20Anarchy%20)%20HD.mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>365019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Nirvana%20-%20Smells%20Like%20Teen%20Spirit%20(Danny%20David%20Remix).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>300291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/P.O.D.%20-%20Criminal%20Conversations%20(Audio)%20ft.%20Maria%20Brink.mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>258291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/P.O.D.%20-%20The%20Awakening%20(Audio).mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>325419</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Self%20Harm%20Awareness.%20Sia,%20Breathe%20Me.%20(Fingerstyle%20Guitar%20Cover%20With%20Chords))..mp3</location>
+			<image>file:///D:/AUDIO/NEW%20UNCATEGORIZED/Folder.jpg</image>
+			<duration>185403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/NEW%20UNCATEGORIZED/NEW%204/City%20and%20Colour%20-%20Wasted%20Love.mp3</location>
+			<duration>176115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Big%20Sugar%20-%20Dear%20Mr.%20Fantasy.mp3</location>
+			<title>Dear Mr. Fantasy</title>
+			<creator>Big Sugar</creator>
+			<album>Five Hundred Pounds</album>
+			<annotation>Original Song by Traffic</annotation>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>299624</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Traffic%20-%20Dear%20Mr.%20Fantasy.mp3</location>
+			<title>Dear Mr. Fantasy</title>
+			<creator>Traffic</creator>
+			<album>Mr. Fantasy</album>
+			<trackNum>5</trackNum>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>334158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Battleme%20-%20Hey%20Hey,%20My%20My%20(Sons%20of%20Anarchy%20S03E13).mp3</location>
+			<title>Hey Hey, My My</title>
+			<creator>BattleMe</creator>
+			<album>Sons of Anarchy</album>
+			<annotation>                              </annotation>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>172563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/AUDIO/ENGLISH/Mafia%203%20Theme%20-%20New%20Bordeaux.mp3</location>
+			<title>New Bordeaux</title>
+			<album>Mafia 3</album>
+			<image>file:///D:/AUDIO/ENGLISH/Folder.jpg</image>
+			<duration>166635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+	</extension>
+</playlist>
