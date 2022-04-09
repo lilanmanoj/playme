@@ -1,4 +1,5 @@
 import argparse as ArgParse
+import collections
 import source as Source
 import target as Target
 
@@ -12,7 +13,9 @@ args = parser.parse_args()
 
 # Initiate playlist
 plst = Source.Playlist(args.source)
-plstMimeType = plst.process()
+collection = plst.process()
+
+print(collection)
 
 # Initiate target destination
 dest = Target.Destination(args.destination)
