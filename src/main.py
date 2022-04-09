@@ -1,5 +1,5 @@
 import argparse as ArgParse
-import collections
+import track as Track
 import source as Source
 import target as Target
 
@@ -15,8 +15,18 @@ args = parser.parse_args()
 plst = Source.Playlist(args.source)
 collection = plst.process()
 
-print(collection)
+for playlist in collection:
+    title = playlist['title']
+    tracks = playlist['tracks']
 
-# Initiate target destination
-dest = Target.Destination(args.destination)
-dest.write()
+    # Initiate target destination
+    dest = Target.Destination(args.destination)
+    
+    if dest.check() is not True:
+        dest.create()
+    
+    path = dest.create(title)
+    
+    for track in tracks:
+        media = Track.Media(track)
+        media.copy(path)
