@@ -51,6 +51,10 @@ class Playlist:
             
             self.output.append(dictPlaylist)
         
+        else:
+            # TO-DO: Other playlist processes ex: m3u
+            print("Unsupported filetype!")
+        
         return self.output
 
     def get_mime(self):
