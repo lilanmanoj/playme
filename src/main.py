@@ -31,6 +31,7 @@ def main(source, destination):
             print("Info: Destination not available!")
             dest.create()
         
+        print("\n")
         confirmed = Click.confirm("Confirm copy tracks for playlist \"" + title + "\"", True)
         
         if confirmed:
@@ -42,7 +43,7 @@ def main(source, destination):
                 media = Track.Media(track)
                 media.copy(path)
             
-            print("Info: Track copy done!\n")
+            print("Info: Track copy done!")
         else:
             print("Info: Skipping copy tracks for " + title + " ...")
     
