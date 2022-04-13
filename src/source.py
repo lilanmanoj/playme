@@ -13,10 +13,14 @@ class Playlist:
     def process(self):
         self.mimeType = self.get_mime()
 
+        print("Info: Start processing playlist..")
+
         if self.mimeType[0] == "application/xml":
+            print("Info: xml playlist detected.")
+
             tree = ET.parse(self.file)
             root = tree.getroot()
-
+            
             if root.tag == "rhythmdb-playlists":
                 for playlist in root.findall('playlist'):
                     playlistTitle = playlist.get('name')
@@ -34,6 +38,8 @@ class Playlist:
                     self.output.append(dictPlaylist)
 
         elif self.mimeType[0] == "application/xspf+xml":
+            print("Info: xspf playlist detected.")
+
             tree = ET.parse(self.file)
             root = tree.getroot()
             playlistTitle = root.find("{http://xspf.org/ns/0/}title").text
@@ -53,8 +59,10 @@ class Playlist:
         
         else:
             # TO-DO: Other playlist processes ex: m3u
-            print("Unsupported filetype!")
+            print("Error: Unsupported filetype!")
         
+        print("Info: Playlist process done.")
+
         return self.output
 
     def get_mime(self):
@@ -63,6 +71,3 @@ class Playlist:
     def get_path(self, url):
         sanitizedPath = UrlParse.unquote(url).replace("file:///", "/")
         return OS.fspath(sanitizedPath)
-
-    def read(self):
-        print(self.file)
