@@ -12,6 +12,7 @@ class Playlist:
     
     def process(self):
         self.mimeType = self.get_mime()
+        playlistFileName = self.get_file_name_without_extension(self.file)
 
         print("Info: Start processing playlist..")
 
@@ -42,7 +43,7 @@ class Playlist:
 
             tree = ET.parse(self.file)
             root = tree.getroot()
-            playlistTitle = root.find("{http://xspf.org/ns/0/}title").text
+            playlistTitle = root.find("{http://xspf.org/ns/0/}title") or playlistFileName
             tracklist = root.find("{http://xspf.org/ns/0/}trackList")
             tracks = []
 
@@ -71,3 +72,6 @@ class Playlist:
     def get_path(self, url):
         sanitizedPath = UrlParse.unquote(url).replace("file:///", "/")
         return OS.fspath(sanitizedPath)
+
+    def get_file_name_without_extension(self, file_path):
+        return OS.path.splitext(OS.path.basename(file_path))[0]
